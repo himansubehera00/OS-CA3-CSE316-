@@ -10,7 +10,7 @@ scanf("%d",&n);
 
  if(n==0)
  printf("Enter at least 1 Process\n\n\n\n");
- else
+ else 
 for(i=0;i<n;i++)
 {
 printf("\nEnter the Arrival Time of p%d process: ",i+1);
